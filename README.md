@@ -33,7 +33,7 @@ Participants were categorized into four groups based on a combined classificatio
 ---
 
 ## Demographic Metadata
-Demographic information was recorded separately in an Excel file (`metadata.xlsx`) using participant IDs to ensure anonymity. The recorded attributes include:
+Demographic information was recorded separately in an Excel file (`MetaData.xlsx`) using participant IDs to ensure anonymity. The recorded attributes include:
 
 - Age  
 - Gender  
