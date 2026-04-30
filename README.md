@@ -1,7 +1,8 @@
 # Sinhala Handwritten OCR Dataset
 
 ## Overview
-This dataset contains Sinhala handwritten **characters, words, and paragraphs** collected for the research titled: Development of a Vision Transformer-Based OCR System for Sinhala Handwritten Text Recognition. It is designed to support the development and evaluation of machine learning and deep learning models for handwritten text recognition.
+This dataset contains Sinhala handwritten characters, words, and paragraphs, collected as part of a research project on Sinhala handwritten text recognition. It is designed to support the development and evaluation of machine learning and deep learning models for handwritten text recognition tasks.
+The dataset can be downloaded from: https://doi.org/10.5281/zenodo.19878034
 
 ---
 
